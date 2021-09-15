@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thomsult
 I am French I discover and I learn :
-  - HTML, CSS, Javascript, React, NodeJS, npm... self-taught
+  - HTML, CSS, Javascript, React, NodeJS, npm... self-learning
   - My codepen.io profile https://codepen.io/thomsult
   
 
