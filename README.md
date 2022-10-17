@@ -14,3 +14,5 @@
 
  ![](https://komarev.com/ghpvc/?username=your-github-thomsult)
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X56ZK5A)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomsult&show_icons=true&theme=react)
